@@ -1,0 +1,5 @@
+ID,アイテム名,読み込むLUAファイル,使用する関数名
+1,弱い石ころ,itemeffect,hpdamage1
+2,強い石ころ,itemeffect,hpdamage2
+3,弱い精神攻撃,itemeffect,mpdamage1
+4,強い精神攻撃,itemeffect,mpdamage2
